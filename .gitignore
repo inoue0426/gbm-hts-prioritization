@@ -1,0 +1,23 @@
+# Local HTS inputs and derived study artifacts
+HTS_summary.csv
+CTD mapping/
+outputs/
+data/
+results/
+*.parquet
+*.pkl
+*.joblib
+
+# Python / notebooks
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
