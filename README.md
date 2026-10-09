@@ -86,7 +86,9 @@ The main expected input includes `Structure` (SMILES), `Cell_line`, `library`, `
 
 ## Data availability and responsible use
 
-The study's HTS summary and processed annotation mappings are **not committed to this repository**. The original README states that the study data are available from the authors upon reasonable request; access may depend on the relevant data-sharing permissions. The public code does not include identifiable patient data or screening-result files.
+The underlying high-throughput screening dataset is being described in a **separate data-focused publication**. Links to that publication and to the dataset will be added here once they are publicly available. The HTS summary and processed annotation mappings are **not included in this repository** at present.
+
+This repository focuses on the **machine-learning analysis and compound-prioritization workflow**; the data publication and any associated modeling publication are distinct outputs. The public code does not include identifiable patient data or screening-result files.
 
 This repository is intended for **computational research**, not clinical decision-making or validated experimental hit selection.
 
